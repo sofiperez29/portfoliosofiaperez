@@ -1,0 +1,76 @@
+body{
+    background-color: #B3C1FF;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(108, 108, 255);
+}
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+
+}
+
+.barra {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    margin-top: 2%;
+    
+    
+    
+}
+.barra a {
+    
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 200%;
+    padding: 20px ;
+    max-width: 70vw;
+    max-height: 50%;
+   
+}
+.barra a:hover {
+    color: #6a85ff;
+}
+h1 {
+    margin-right: 15%;
+    margin-left: 2%;
+}
+.sobremi{
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    font-weight:800;
+    max-width: 80%;
+   
+}
+.educación {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:800;
+   max-width: 85%;
+}
+
+.habilidades {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8.5%;
+    font-weight:800;
+    max-width: 77%;
+  
+}
+.programas{
+    display: flex;
+    justify-content: center;
+    margin-left: 4.5%;
+    
+  
+}
+.programas img{
+    margin-left: 1%;
+}
+
